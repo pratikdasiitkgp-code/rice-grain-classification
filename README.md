@@ -155,3 +155,9 @@ IIT Kharagpur
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## 🚀 Live Demo
+
+Try the deployed application here:
+
+**[Launch Rice Grain Classification App](https://rice-grain-classification-pratik.streamlit.app)**
